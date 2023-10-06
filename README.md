@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning, generally.<br>
 - 🌱 I’m currently working on my undergrad in CS at UIC. <br>
 ....I am an older non-traditional student and this is my first time working with programming languages.  <br>
-....I am interested in working towards a career that bridges the gap between tech and accessibility. <br>
-- 💞️ I’m looking to collaborate on small student friendly projects.<br>
+....I am interested in working towards a career that bridges the gap between tech people living with disabilities. <br>
+- 💞️ I’m looking to collaborate on small student-friendly projects.<br>
 - 📫 How to reach me @ahhnnna on twitter or here. <br>
 
 
